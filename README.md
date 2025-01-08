@@ -1,6 +1,9 @@
 # Power BI Sales Dashboard - Regional Performance Analysis
 
+![Screenshot (360)](https://github.com/user-attachments/assets/d48ba848-203f-4eb0-b3a0-d5e27cd7c787)
+
 ## Objective
+
 The aim of this project is to create a dynamic Power BI dashboard that tracks key metrics—**Sales, Profit, and Quantity**—across four regions: **Central, East, South, and West**. This dashboard provides strategic insights into regional performance, enabling data-driven decisions.
 
 ---
